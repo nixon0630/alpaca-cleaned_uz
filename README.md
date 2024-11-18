@@ -1,13 +1,3 @@
----
-license: cc-by-4.0
-language:
-- uz
-tags:
-- instruction-finetuning
-pretty_name: Alpaca-Cleaned-Uz
-task_categories:
-- text-generation
----
 
 ### Dataset Summary
 
